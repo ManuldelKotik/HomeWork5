@@ -49,7 +49,7 @@ public class Main {
 
         Person[] persArray = new Person[5];
         persArray[0] = new Person("Ulyanov Mihail", "Manager1", "Ulyanov@mailG.com", "85642", 90000, 21);
-        persArray[1] = new Person("Zagorodskiy Nikolay", "Manager2", "Zagorodskiy@mailG.com", "35912", 90000, 25);
+        persArray[1] = new Person("Zagorodskiy Nikolay", "Manager2", "Zagorodskiy@mailG.com", "35912", 90000, 22);
         persArray[2] = new Person("Dmitrieva Elena", "Director", "Dmitrieva@mailG.com", "83466", 250000, 52);
         persArray[3] = new Person("Shatov Stanislav", "Vice", "Shatov@mailG.com", "10865", 180000, 43);
         persArray[4] = new Person("Yartseva Ekaterina", "Estimator", "Yartseva@mailG.com", "29914", 120000, 28);
